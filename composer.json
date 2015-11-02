@@ -1,0 +1,12 @@
+{
+    "name": "rednesstech/php-mqtt",
+	"require": {
+        "php": ">=5.4.0",
+		"react/react" : "*"
+		},
+	"autoload": {
+        "psr-0": {
+            "MQTT": "src"
+        }
+    }
+}
